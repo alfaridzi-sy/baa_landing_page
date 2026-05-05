@@ -206,6 +206,38 @@ require 'partials/head.php';
           </div>
         </article>
 
+        <!-- IoT Trainer Kit — Produk Unggulan -->
+        <article class="product-card" id="iot-trainer" data-category="it-consultant" data-aos="fade-up" data-aos-delay="0"
+          style="border-color: rgba(201,168,76,0.45); position: relative;">
+          <div style="
+            position: absolute; top: 14px; right: 14px; z-index: 2;
+            background: var(--gold); color: #0F2248;
+            font-size: 0.65rem; font-weight: 700;
+            padding: 3px 10px; border-radius: 999px;
+            letter-spacing: 0.07em; text-transform: uppercase;
+          ">Unggulan</div>
+          <div class="product-card-img" style="background-image: url('/assets/images/bg-it.svg'); background-size: cover; background-position: center;" role="img" aria-label="IoT Trainer Kit">
+            <i class="fa-solid fa-microchip" style="font-size:3rem; color: var(--gold); position:relative; z-index:1;" aria-hidden="true"></i>
+          </div>
+          <div class="product-card-body">
+            <div class="product-card-cat">
+              <span class="badge" style="background: rgba(43,91,168,0.10); color: #2B5BA8; border-color: rgba(43,91,168,0.25);">IT Consultant</span>
+            </div>
+            <h3 class="product-card-title">IoT Trainer Kit</h3>
+            <p class="product-card-desc">
+              Paket pelatihan Internet of Things (IoT) yang dirancang untuk program pengembangan
+              kapasitas guru sekolah menengah di Kabupaten Serdang Bedagai bersama Dinas Pendidikan
+              setempat. Setiap kit dilengkapi modul sensor, aktuator, dan mikrokontroler — memungkinkan
+              guru mempelajari dan langsung menggunakan IoT sebagai bahan ajar di kelas.
+            </p>
+            <div class="product-tags">
+              <span class="product-tag">#IoT</span>
+              <span class="product-tag">#TrainingKit</span>
+              <span class="product-tag">#PendidikanTeknologi</span>
+            </div>
+          </div>
+        </article>
+
         <article class="product-card" data-category="it-consultant" data-aos="fade-up" data-aos-delay="0">
           <div class="product-card-img" style="background-image: url('/assets/images/bg-it.svg'); background-size: cover; background-position: center;" role="img" aria-label="IT Consulting dan Advisory">
             <i class="fa-solid fa-lightbulb" style="font-size:3rem; color: #2B5BA8; position:relative; z-index:1;" aria-hidden="true"></i>

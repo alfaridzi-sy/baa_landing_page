@@ -196,6 +196,40 @@ require 'partials/head.php';
 
         </div>
 
+        <!-- IoT Trainer Kit Callout -->
+        <div data-aos="fade-up" data-aos-delay="150" style="
+          margin-top: 32px;
+          background: var(--gold-dim);
+          border: 1px solid rgba(201,168,76,0.25);
+          border-left: 3px solid var(--gold);
+          border-radius: var(--card-radius);
+          padding: 20px 28px;
+          display: flex;
+          align-items: center;
+          gap: 20px;
+          flex-wrap: wrap;
+        ">
+          <div style="
+            width: 44px; height: 44px; flex-shrink: 0;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            display: flex; align-items: center; justify-content: center;
+          ">
+            <i class="fa-solid fa-microchip" style="color: var(--gold); font-size: 1.1rem;" aria-hidden="true"></i>
+          </div>
+          <div style="flex: 1; min-width: 220px;">
+            <div style="font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--gold); margin-bottom: 3px;">Produk Terbaru</div>
+            <h4 style="font-family: var(--font-heading); color: var(--text-primary); margin: 0 0 3px; font-size: 0.9375rem; font-weight: 700;">IoT Trainer Kit — Dinas Pendidikan Serdang Bedagai</h4>
+            <p style="color: var(--text-muted); font-size: 0.8125rem; margin: 0; line-height: 1.5;">
+              Kit pelatihan IoT untuk guru sekolah menengah — belajar langsung dengan modul sensor, aktuator, dan mikrokontroler sebagai bahan ajar di kelas.
+            </p>
+          </div>
+          <a href="/produk#iot-trainer" class="btn btn-outline btn-sm" style="flex-shrink: 0; white-space: nowrap;">
+            Lihat Detail <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
+          </a>
+        </div>
+
         <div class="text-center mt-48" data-aos="fade-up" data-aos-delay="100">
           <a href="/produk" class="btn btn-outline">
             Lihat Semua Produk &amp; Layanan
