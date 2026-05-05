@@ -60,7 +60,7 @@ require 'partials/head.php';
               <span class="product-tag">#Maintenance</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -81,7 +81,7 @@ require 'partials/head.php';
               <span class="product-tag">#Sanitasi</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -102,7 +102,7 @@ require 'partials/head.php';
               <span class="product-tag">#Grease</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -123,7 +123,7 @@ require 'partials/head.php';
               <span class="product-tag">#Sensor</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -144,7 +144,7 @@ require 'partials/head.php';
               <span class="product-tag">#Agribisnis</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -165,7 +165,7 @@ require 'partials/head.php';
               <span class="product-tag">#Bioenergi</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -186,7 +186,7 @@ require 'partials/head.php';
               <span class="product-tag">#Interior</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -207,7 +207,7 @@ require 'partials/head.php';
               <span class="product-tag">#OfficeSupply</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -228,7 +228,7 @@ require 'partials/head.php';
               <span class="product-tag">#Komputer</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -249,7 +249,7 @@ require 'partials/head.php';
               <span class="product-tag">#K3</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -286,7 +286,7 @@ require 'partials/head.php';
               <span class="product-tag">#PendidikanTeknologi</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi/paket-trainer-kit-iot-sistem-cerdas-tertanama-berbasis-nodemcu-arduino-platform-materi-project-trainer-kit" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -309,7 +309,7 @@ require 'partials/head.php';
               <span class="product-tag">#Advisory</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -332,7 +332,7 @@ require 'partials/head.php';
               <span class="product-tag">#ERP</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -355,7 +355,7 @@ require 'partials/head.php';
               <span class="product-tag">#TKDN</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
@@ -378,7 +378,7 @@ require 'partials/head.php';
               <span class="product-tag">#TechSupport</span>
             </div>
             <a href="https://katalog.inaproc.id/berlian-artha-abadi" target="_blank" rel="noopener noreferrer"
-              class="footer-link" style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none;">
+              style="display:inline-flex; align-items:center; gap:6px; font-size:0.8rem; font-weight:600; color:#C8102E; margin-top:12px; padding-top:12px; border-top:1px solid var(--border); width:100%; text-decoration:none; opacity:0.9; transition:opacity var(--transition-base);" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.9'">
               <i class="fa-solid fa-store" style="font-size:0.7rem; flex-shrink:0;" aria-hidden="true"></i>
               Lihat di E-Catalogue LKPP
             </a>
