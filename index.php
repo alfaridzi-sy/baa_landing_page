@@ -225,7 +225,7 @@ require 'partials/head.php';
               Kit pelatihan IoT untuk guru sekolah menengah — belajar langsung dengan modul sensor, aktuator, dan mikrokontroler sebagai bahan ajar di kelas.
             </p>
           </div>
-          <a href="/produk#iot-trainer" class="btn btn-outline btn-sm" style="flex-shrink: 0; white-space: nowrap;">
+          <a href="https://iot.berliantech.id" class="btn btn-outline btn-sm" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0; white-space: nowrap;">
             Lihat Detail <i class="fa-solid fa-arrow-right" aria-hidden="true"></i>
           </a>
         </div>
