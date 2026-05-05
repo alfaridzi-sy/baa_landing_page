@@ -70,15 +70,12 @@
    3. ACTIVE NAV LINK (based on current page)
    ============================================================ */
 (function setActiveNavLink() {
-  const currentPage = window.location.pathname.split('/').pop() || 'index.html';
+  const path = window.location.pathname;
+  const currentPage = path === '/' ? '' : path.replace(/^\//, '').replace(/\/$/, '');
   const navLinks = document.querySelectorAll('.nav-link[data-page]');
 
   navLinks.forEach(link => {
-    const page = link.dataset.page;
-    if (
-      page === currentPage ||
-      (currentPage === '' && page === 'index.html')
-    ) {
+    if (link.dataset.page === currentPage) {
       link.classList.add('active');
     }
   });

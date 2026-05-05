@@ -1,0 +1,22 @@
+Options -Indexes
+DirectoryIndex index.php
+
+RewriteEngine On
+
+# Redirect index.html / index.php ke root
+RewriteCond %{THE_REQUEST} \s/index\.(html|php)[\s?] [NC]
+RewriteRule ^ / [L,R=301]
+
+# Redirect .html ke clean URL
+RewriteCond %{THE_REQUEST} \s/([^/]+)\.html[\s?] [NC]
+RewriteRule ^ /%1 [NC,L,R=301]
+
+# Redirect .php ke clean URL
+RewriteCond %{THE_REQUEST} \s/([^/]+)\.php[\s?] [NC]
+RewriteRule ^ /%1 [NC,L,R=301]
+
+# Serve file .php untuk clean URL
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^([^/]+)/?$ $1.php [L]
