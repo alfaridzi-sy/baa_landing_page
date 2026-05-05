@@ -275,10 +275,10 @@ require 'partials/head.php';
             </div>
             <h3 class="product-card-title">IoT Trainer Kit</h3>
             <p class="product-card-desc">
-              Paket pelatihan Internet of Things (IoT) yang dirancang untuk program pengembangan
-              kapasitas guru sekolah menengah di Kabupaten Serdang Bedagai bersama Dinas Pendidikan
-              setempat. Setiap kit dilengkapi modul sensor, aktuator, dan mikrokontroler — memungkinkan
-              guru mempelajari dan langsung menggunakan IoT sebagai bahan ajar di kelas.
+              Paket pelatihan Internet of Things (IoT) yang dirancang untuk pengembangan kapasitas
+              tenaga pendidik sekolah menengah. Setiap kit dilengkapi modul sensor, aktuator, dan
+              mikrokontroler berbasis NodeMCU &amp; Arduino — memungkinkan peserta mempelajari dan
+              langsung menerapkan konsep IoT sebagai bahan ajar di kelas.
             </p>
             <div class="product-tags">
               <span class="product-tag">#IoT</span>

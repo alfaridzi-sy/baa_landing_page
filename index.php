@@ -220,9 +220,9 @@ require 'partials/head.php';
           </div>
           <div style="flex: 1; min-width: 220px;">
             <div style="font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.1em; color: var(--gold); margin-bottom: 3px;">Produk Terbaru</div>
-            <h4 style="font-family: var(--font-heading); color: var(--text-primary); margin: 0 0 3px; font-size: 0.9375rem; font-weight: 700;">IoT Trainer Kit — Dinas Pendidikan Serdang Bedagai</h4>
+            <h4 style="font-family: var(--font-heading); color: var(--text-primary); margin: 0 0 3px; font-size: 0.9375rem; font-weight: 700;">IoT Trainer Kit</h4>
             <p style="color: var(--text-muted); font-size: 0.8125rem; margin: 0; line-height: 1.5;">
-              Kit pelatihan IoT untuk guru sekolah menengah — belajar langsung dengan modul sensor, aktuator, dan mikrokontroler sebagai bahan ajar di kelas.
+              Kit pelatihan IoT berbasis NodeMCU &amp; Arduino — modul sensor, aktuator, dan mikrokontroler siap pakai sebagai bahan ajar di kelas.
             </p>
           </div>
           <a href="https://iot.berliantech.id" class="btn btn-outline btn-sm" target="_blank" rel="noopener noreferrer" style="flex-shrink: 0; white-space: nowrap;">
