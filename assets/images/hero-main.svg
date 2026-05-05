@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 450" width="100%" height="100%">
+  <!-- Background Navy -->
+  <rect width="600" height="450" fill="#0F2248"/>
+  
+  <!-- Abstract Grid/Blueprint -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#162B5A" stroke-width="1"/>
+  </pattern>
+  <rect width="600" height="450" fill="url(#grid)"/>
+
+  <!-- Abstract Industrial/Warehouse Shapes -->
+  <path d="M 0 450 L 0 250 L 150 250 L 150 150 L 300 150 L 300 200 L 450 200 L 450 100 L 600 100 L 600 450 Z" fill="#162B5A"/>
+  <path d="M 0 450 L 0 300 L 200 300 L 200 220 L 400 220 L 400 280 L 600 280 L 600 450 Z" fill="#1A336B"/>
+
+  <!-- Gold Tech Accents / Supply Chain Nodes -->
+  <g stroke="#C9A84C" stroke-width="3" fill="none">
+    <!-- Lines -->
+    <path d="M 80 300 L 80 180 L 220 180 L 220 120 L 380 120" />
+    <path d="M 220 180 L 320 180 L 320 250 L 480 250 L 480 150" />
+    <!-- Nodes -->
+    <circle cx="80" cy="300" r="6" fill="#0F2248"/>
+    <circle cx="80" cy="180" r="6" fill="#0F2248"/>
+    <circle cx="220" cy="180" r="8" fill="#C9A84C"/>
+    <circle cx="220" cy="120" r="6" fill="#0F2248"/>
+    <circle cx="380" cy="120" r="6" fill="#0F2248"/>
+    <circle cx="320" cy="180" r="6" fill="#0F2248"/>
+    <circle cx="320" cy="250" r="6" fill="#0F2248"/>
+    <circle cx="480" cy="250" r="8" fill="#C9A84C"/>
+    <circle cx="480" cy="150" r="6" fill="#0F2248"/>
+  </g>
+
+  <!-- Glowing Effect -->
+  <circle cx="220" cy="180" r="24" fill="#C9A84C" opacity="0.15"/>
+  <circle cx="480" cy="250" r="24" fill="#C9A84C" opacity="0.15"/>
+</svg>

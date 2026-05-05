@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <!-- 
+    Ikon Berlian Transparan
+    Digunakan untuk elemen UI sebaris (Navbar & Footer)
+  -->
+  <g stroke="#C9A84C" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" fill="none">
+    <!-- Garis Luar (Outline) -->
+    <path d="M 25 25 L 75 25 L 90 45 L 50 85 L 10 45 Z" />
+    
+    <!-- Garis Sabuk (Girdle) -->
+    <path d="M 10 45 L 90 45" />
+    
+    <!-- Garis Faset Atas (Crown Facets) -->
+    <path d="M 25 25 L 20 45" />
+    <path d="M 75 25 L 80 45" />
+    <path d="M 25 25 L 50 45" />
+    <path d="M 75 25 L 50 45" />
+    
+    <!-- Garis Faset Bawah (Pavilion Facets) -->
+    <path d="M 20 45 L 50 85" />
+    <path d="M 80 45 L 50 85" />
+    <path d="M 50 45 L 50 85" />
+  </g>
+</svg>
